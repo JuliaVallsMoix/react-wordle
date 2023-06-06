@@ -1,9 +1,9 @@
 import styles from './LetterKey.module.css'
 
-export default function LetterKey ({ children }) {
+export default function LetterKey (props) {
     return (
         <div className={styles.key}>
-            {children}
+            {props.children}
         </div>
     )
 }
