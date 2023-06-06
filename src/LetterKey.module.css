@@ -1,0 +1,16 @@
+.key {
+    background-color: rgb(192, 213, 219);
+    color: black;
+    padding: 1rem;
+    font-weight: bold;
+    border-radius: 0.5rem;
+    text-transform: uppercase;
+    width: 1rem;
+    height: 1.7rem;
+}
+
+.key:hover {
+    background-color: grey;
+    cursor: pointer;
+    color: white;
+}
