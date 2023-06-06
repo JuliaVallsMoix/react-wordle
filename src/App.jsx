@@ -47,67 +47,67 @@ function App() {
 
             <tr>
               <td>
-                <LetterKey>q</LetterKey>
+                <LetterKey>a</LetterKey>
               </td>
               <td>
-                <LetterKey>w</LetterKey>
+                <LetterKey>s</LetterKey>
               </td>
               <td>
-                <LetterKey>e</LetterKey>
+                <LetterKey>d</LetterKey>
               </td>
               <td>
-                <LetterKey>r</LetterKey>
+                <LetterKey>f</LetterKey>
               </td>
               <td>
-                <LetterKey>t</LetterKey>
+                <LetterKey>g</LetterKey>
               </td>
               <td>
-                <LetterKey>y</LetterKey>
+                <LetterKey>h</LetterKey>
               </td>
               <td>
-                <LetterKey>u</LetterKey>
+                <LetterKey>j</LetterKey>
               </td>
               <td>
-                <LetterKey>i</LetterKey>
+                <LetterKey>k</LetterKey>
               </td>
               <td>
-                <LetterKey>o</LetterKey>
+                <LetterKey>l</LetterKey>
               </td>
               <td>
-                <LetterKey>p</LetterKey>
+                <LetterKey>ñ</LetterKey>
               </td>
             </tr>
 
             <tr>
               <td>
-                <LetterKey>q</LetterKey>
+                <LetterKey>enviar</LetterKey>
               </td>
               <td>
-                <LetterKey>w</LetterKey>
+                <LetterKey>z</LetterKey>
               </td>
               <td>
-                <LetterKey>e</LetterKey>
+                <LetterKey>x</LetterKey>
               </td>
               <td>
-                <LetterKey>r</LetterKey>
+                <LetterKey>c</LetterKey>
               </td>
               <td>
-                <LetterKey>t</LetterKey>
+                <LetterKey>v</LetterKey>
               </td>
               <td>
-                <LetterKey>y</LetterKey>
+                <LetterKey>b</LetterKey>
               </td>
               <td>
-                <LetterKey>u</LetterKey>
+                <LetterKey>n</LetterKey>
               </td>
               <td>
-                <LetterKey>i</LetterKey>
+                <LetterKey>m</LetterKey>
               </td>
               <td>
-                <LetterKey>o</LetterKey>
+                <LetterKey>  </LetterKey>
               </td>
             </tr>
-            
+
           </tbody>
         </table>
       </div>
